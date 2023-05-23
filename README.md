@@ -47,4 +47,4 @@ Adaboost
 GradientBoost
 
 ## **Result**
-![Teks Alternatif](https://github.com/RifkiOskar/Jupython/blob/master/result.png)
+![Teks Alternatif](https://github.com/nicobfs/Loan-approval-analysis-and-prediction/blob/main/result.png)
